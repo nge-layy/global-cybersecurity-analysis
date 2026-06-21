@@ -90,4 +90,69 @@ The main goal of this project is to analyze global cybersecurity incidents from 
 
 The dashboard consists of several key visualizations that highlight global cybersecurity trends:
 
-## Attack Source
+### Attack Source
+
+![Attack Sources](dashboard/attack-source.png)
+
+### Attack Type
+
+![Attack Types](dashboard/attack-type.png)
+
+### Financial Loss Trend
+
+![Financial Loss Trend](dashboard/finicial-loss-trend.png)
+
+### Attacks by Industry
+
+![Attacks by Industry](dashboard/indus-risk.png)
+
+### Loss by Industry
+![Loss by Industry](dashboard/loss-by-idus.png)
+
+###  Users by Industry
+![Users by Industry](dashboard/user-indus.png)
+
+### Resolution Time Trend
+![Resolution Time Trend](dashboard/resolution-time-trend.png)
+
+### Resolution vs Loss
+![Resolution vs Loss](dashboard/resol-vs-loss.png)
+
+## Key Findings
+
+- DDoS and Phishing are the most common cyberattacks.
+- The IT sector experiences the highest number of attacks.
+- Ransomware causes the highest average financial loss.
+- Nation-state actors are the most common attack source.
+- Zero-day vulnerabilities are the most exploited weakness.
+- AI-based detection systems reduce incident resolution times.
+- Financial loss, user impact, and resolution time show weak correlations.
+
+## Recommendations
+
+- Improve vulnerability management and patching.
+- Implement Multi-Factor Authentication (MFA).
+- Invest in AI-based threat detection.
+- Strengthen incident response procedures.
+- Conduct regular cybersecurity awareness training.
+
+## Project Structure
+
+```text
+global-cybersecurity-analysis/
+│
+├── data/
+├── notebook/
+├── dashboard/
+├── eda/
+├── src/
+├── report/
+└── README.md
+├── requirements.txt
+```
+
+## Files Included
+
+- `cybersecurity_analyst.ipynb` – Data cleaning, analysis, and visualizations
+- `CyberSecurity Analyst.pdf` – Project report
+- `Global_Cybersecurity_Threats_2015-2024.csv` – Source dataset
