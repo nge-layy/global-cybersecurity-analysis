@@ -47,6 +47,23 @@ The dataset includes information about:
 Original dataset available on Kaggle and licensed under CC0 (Public Domain), allowing free use for research, analysis, and educational purposes.
 Credit should be given to the original dataset creator when sharing derivative work.
 
-  Dataset: Global Cybersecurity Threats (2015–2024)
-  Source: Kaggle
-  License: CC0 Public Domain
+Dataset: Global Cybersecurity Threats (2015–2024)
+Source: Kaggle
+License: CC0 Public Domain
+
+## Project Objectives
+
+The main goal of this project is to analyze global cybersecurity incidents from 2015 to 2024 and generate insights that help organizations improve cybersecurity and reduce risk.
+
+### Objectives
+- Analyze the cybersecurity attack landscape and identify common attack types.
+- Assess cybersecurity risks across industries.
+- Measure financial losses caused by cyberattacks.
+- Evaluate the impact of attacks on users.
+- Identify the most exploited security vulnerabilities.
+- Analyze attack sources such as nation-state actors, hacker groups, and insider threats.
+- Evaluate the effectiveness of cybersecurity defense mechanisms.
+- Measure incident response performance and resolution times.
+- Identify long-term cybersecurity trends between 2015 and 2024.
+- Explore relationships between financial loss, user impact, and incident response metrics.
+
