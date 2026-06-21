@@ -67,3 +67,27 @@ The main goal of this project is to analyze global cybersecurity incidents from 
 - Identify long-term cybersecurity trends between 2015 and 2024.
 - Explore relationships between financial loss, user impact, and incident response metrics.
 
+## Tools & Technologies
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+- jupyter
+- dash
+
+## Project Workflow
+
+- Data Collection
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
+- Insight Generation
+- Recommendations
+
+## Dashboard Overvirw
+
+The dashboard consists of several key visualizations that highlight global cybersecurity trends:
+
+## Attack Source
